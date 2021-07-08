@@ -1,5 +1,5 @@
 ## The Lucky Elephant
-This is a easy game with a gorgeous story.
+This is an easy game with a gorgeous story.
 
 ## Link
 
